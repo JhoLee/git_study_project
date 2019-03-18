@@ -1,1 +1,2 @@
-VCS is Version Control System.
+Github is a suver for git repositories.
+
