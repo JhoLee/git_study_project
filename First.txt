@@ -1,2 +1,2 @@
-Github is a suver for git repositories.
+Github is a super for git repositories.
 
